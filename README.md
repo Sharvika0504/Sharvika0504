@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharvika Nitin Kulkarni</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=sharvika0504&label=Profile%20views&color=0e75b6&style=flat" alt="sharvika0504" /> </p>
 <h3 align="center">Full Stack Developer with 3 years of experience, excelling in object-oriented design and web development across telecom, finance and ecommerce sectors. Proven capabilities in Backend Development, Database management, Automation Testing and Machine learning, with a notable ability to craft scalable web solutions and enhance user engagement through strategic improvements.</h3>
 
-
-<p align="center"> <img src="https://s3.resume.io/cdn-cgi/image/width=544,height=476,fit=cover,quality=70,format=auto/uploads/blog_post/featured_image/26324/RIO_-_Women_coding.png" alt="sharvika0504" /> </p>
-
 - 🔭 Master's in Computer Science(May 2024) [Califronia State University Long Beach](https://www.csulb.edu)
 
 - 🌱 I’m currently learning **Django, AWS cloud development**
